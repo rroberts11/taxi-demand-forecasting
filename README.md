@@ -1,23 +1,24 @@
-# taxi-demand_forecasting
-Forecasting taxi demand using time series analysis and machine learning. Includes data preprocessing, feature engineering, Random Forest, Gradient Boosting, and SARIMA modeling. Evaluated using RMSE to compare model performance.
+🛺 Taxi Demand Forecasting
+Forecasting taxi demand using time series analysis and machine learning.
+This project includes data preprocessing, feature engineering, and model training using Random Forest, Gradient Boosting, and SARIMA. Models are evaluated using RMSE to compare performance.
 
-
-Key Features:
+📌 Key Features
 Time series decomposition & stationarity testing
 
 Feature engineering: hour, weekday, holiday detection
 
-Train/test split using time-aware strategies
+Time-aware train/test split
 
-Machine Learning models: Random Forest & Gradient Boosting
+Machine learning models: Random Forest & Gradient Boosting
 
-SARIMA model for temporal patterns
+SARIMA model for seasonal time series patterns
 
 Evaluation using RMSE
 
-Tools Used:
-Python, Pandas, Matplotlib, Seaborn
+🧰 Tools Used
+Languages & Libraries: Python, Pandas, Matplotlib, Seaborn
 
-Scikit-learn, Statsmodels
+Modeling & Evaluation: Scikit-learn, Statsmodels
 
-TimeSeriesSplit, ADFuller, SARIMAX
+Time Series Techniques: TimeSeriesSplit, ADFuller, SARIMAX
+
