@@ -105,7 +105,10 @@ Follow through the notebook to see data preprocessing, modeling, and evaluation 
 
 ## Contact
 Name: Ryan Roberts
+
 Email: rroberts.ds@gmail.com
+
 GitHub: https://github.com/rroberts11
+
 LinkedIn: https://www.linkedin.com/in/ryan-roberts-51775b147
 
